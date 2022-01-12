@@ -22,20 +22,20 @@ Every Campground has it's location displayed seperately on a map
 
 ## Built with
 - ### Front End
-HTML, CSS, Bootsrap v5.0
-EJS, EJS Mate
+- HTML, CSS, Bootsrap v5.0
+- EJS, EJS Mate
 - ### Back End
-NodeJS
-ExpressJS
-MongoDB
-cloudinary
-MapBox
-passport(local-strategy)
-JOI
-connect-flash
-morgan
-sessions
-helmet
-mongoSanitize
-sanitizeHtml
+- NodeJS
+- ExpressJS
+- MongoDB
+- cloudinary
+- MapBox
+- passport(local-strategy)
+- JOI
+- connect-flash
+- morgan
+- sessions
+- helmet
+- mongoSanitize
+- sanitizeHtml
 ### Deployed using Heroku, database on MongoDB Atlas
