@@ -21,10 +21,10 @@ Sessions and cookies were used
 Every Campground has it's location displayed seperately on a map
 
 ## Built with
-- ###Front End
+- ### Front End
 HTML, CSS, Bootsrap v5.0
 EJS, EJS Mate
-- ###Back End
+- ### Back End
 NodeJS
 ExpressJS
 MongoDB
@@ -38,4 +38,4 @@ sessions
 helmet
 mongoSanitize
 sanitizeHtml
-- ##Deployed using Heroku, database on MongoDB Atlas
+### Deployed using Heroku, database on MongoDB Atlas
