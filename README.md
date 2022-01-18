@@ -38,4 +38,3 @@ Every Campground has it's location displayed seperately on a map
 - helmet
 - mongoSanitize
 - sanitizeHtml
-### Deployed using Heroku, database on MongoDB Atlas
